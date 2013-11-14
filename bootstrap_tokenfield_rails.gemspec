@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mail@skykog.com"]
   spec.description   = %q{Bootstrap Tokenfield gem for rails asset pipeline}
   spec.summary       = %q{A jQuery tagging / tokenizer input plugin for Twitter's Bootstrap}
-  spec.homepage      = "https://github.com/SkyKOG/bootstrap-tokenfield-rails"
+  spec.homepage      = "http://github.com/SkyKOG/bootstrap-tokenfield-rails"
   spec.license       = "MIT"
 
   spec.files         = Dir["{lib,vendor}/**/*"]
