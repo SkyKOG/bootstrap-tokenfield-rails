@@ -16,9 +16,9 @@ Or install it yourself as:
 
     $ gem install bootstrap_tokenfield_rails
 
-## Usage
+### Usage
 
-TODO: Write usage instructions here
+  $('input').tokenfield()
 
 ## Contributing
 
