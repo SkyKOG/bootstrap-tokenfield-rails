@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ### Usage
 
-  $('input').tokenfield()
+    $('input').tokenfield()
 
 ## Contributing
 
