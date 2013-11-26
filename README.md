@@ -2,4 +2,4 @@
 
 The repository has been moved [here](https://github.com/icicletech/bootstrap-tokenfield-rails).
 
-<small>Maintained by [Icicle Technologies Private Limited](http://www.icicletech.com).<small>
+<small>Maintained by [Icicletech](http://www.icicletech.com).<small>
